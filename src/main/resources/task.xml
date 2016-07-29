@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<name>
+	<config>
+		
+	</config>
+	<tasks>
+		<task name="showtime" class="com.zhangyw.alltest.date.App"  method="time" time="* * * * * *" >
+			<path>D:/work/zhangyingwei.com/MyEclipseWS/oktask/lib/alltest.jar</path>
+		</task>
+		<!-- <task name="task1" class="com.zhangyw.word.App"  method="doTask" time="* * * * * */8" />
+		<task name="task2" class="com.zhangyw.word.App"  method="doTask2" time="* * * * * 20" /> -->
+	</tasks>
+</name>
